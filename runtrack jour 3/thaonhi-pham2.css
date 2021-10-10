@@ -1,0 +1,20 @@
+body{
+	background-image: url(https://www.laboiteverte.fr/wp-content/uploads/2015/05/minimalisme-photographie-ordi-03.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: mintcream;
+}
+h1 { 
+   color: cadetblue;
+}
+h2 {
+	background-color: lightblue;
+}
+.content-container {
+    background-color: lightblue;
+    display: block;
+    border:none;
+    padding: 0;
+    margin:0;
+    height: 200px;
+}

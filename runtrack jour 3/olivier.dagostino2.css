@@ -1,0 +1,18 @@
+body {background-color: blueviolet;
+}
+
+.photoprofil {
+    float: right; 
+}
+.centrevaleur {
+    display: flex; flex-direction: row;
+    justify-content: space-around;
+    background-color: yellow;
+}
+.cadre1 {
+    border: 2px outset coral;
+}
+
+.alignement-photo{
+    display: flex  ;
+}

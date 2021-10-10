@@ -1,0 +1,28 @@
+li,p,h2{
+    color: white;
+
+}
+.pacman {
+    margin-left: 65%;
+}
+.EntpImg{
+    margin-left: 20%;
+}
+body{
+    background-size: 100%;
+    background-color: teal;
+    background-image: url(TreeHouseNight.png)
+    }
+a{
+    background: #017dbb;
+}
+.Texte2{
+    margin-left: 20%;
+}
+.Texte1{
+    margin-left: 60%;
+}
+h2{
+    text-align: center;
+}
+

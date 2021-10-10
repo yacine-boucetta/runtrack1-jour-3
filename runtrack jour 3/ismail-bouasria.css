@@ -1,0 +1,18 @@
+body{margin: 0;padding: 0;
+    background-image: url("Japon.jpg");position:static;
+}
+h1{
+font-family:"Lato";color: whitesmoke;
+}
+.div4{
+    width: 100%;background-color: rgba(10, 10, 10, 0.562);
+}
+.div2{
+ margin-left:3% ;width: 30%; height: 40%; background-color: rgba(0, 0, 0, 0.459);box-shadow: 100%;
+}
+p{
+font-family:"Lato";color: whitesmoke;font-weight: bolder;
+}
+.div3{
+    display: flex;
+}

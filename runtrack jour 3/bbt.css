@@ -1,0 +1,22 @@
+body {margin: 0;padding: 0;
+    background-image: url("devweb.png");
+}
+h1{
+    font-family:"Lato";color: rgb(0, 0, 0);font-size: 60px;
+    }
+    .div4{
+        width: 100%;background-color: rgb(255, 255, 255);
+    }
+    .div2{
+        box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.534);
+     margin-left:3% ;width: 30%; height: 40%; background-color: rgba(255, 255, 255, 0.774);box-shadow: 100%;
+    }
+    p{
+    font-family:"Lato";color: rgb(0, 0, 0);font-weight: bolder;
+    }
+    .div3{
+        display: flex;
+    }
+    h2{
+    font-family:"lato";font-size: 24px;
+    }

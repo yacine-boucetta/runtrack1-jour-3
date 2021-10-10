@@ -1,0 +1,23 @@
+@font-face {
+    font-family:'Manga';
+    front-style: normal;
+    src: url("Manga.otf") format('opentype')
+}
+body{margin: 0;padding: 0;
+    background-image: url("Manga.jpeg");position:static;
+}
+h1{
+font-family:"Manga";color: whitesmoke;font-size:60px;
+}
+.div4{
+    width: 100%;background-color: rgba(10, 10, 10, 0.863);
+}
+.div2{box-shadow: 10px 5px 5px rgb(0, 0, 0);;
+ margin-left:3% ;width: 30%; height: 40%; background-color: rgba(0, 0, 0, 0.459);box-shadow: 100%;
+font-size: 35px;}
+p{
+font-family:"Manga";color: whitesmoke;font-weight: bolder;
+}
+.div3{
+    display: flex;
+}

@@ -1,0 +1,87 @@
+table,
+td {
+    border: 1px solid rgb(255, 255, 255);
+}
+
+thead,
+tfoot {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+
+.Imagedaccueil {
+      text-align: center;
+      width: 100%;
+      height: auto;
+
+}
+
+.header {
+    background-color: chocolate;
+    padding-top: 20px;
+    
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: tomato;
+}
+
+.header-nav {
+     text-align: center;
+     background-color: wheat;
+     position: sticky;
+     top: 0;
+     left: 0;
+     right: 0;
+     width: 100%;
+     margin-bottom: 10px;
+     padding: 10px;
+    
+    
+
+     
+}
+.header-nav a {
+    margin: 15px;
+    
+    
+    
+}
+
+
+.header img {
+    width: 35%;
+    height: auto;
+}
+
+pre {
+    font-size: 15px;
+    text-align: center;
+    
+}
+
+
+
+h1 {
+    border: 5px solid white;
+    border-radius: 50px ;
+    width: fit-content;
+    text-align: center;
+    padding: 30;
+    
+}
+
+h2 {
+    border: 5px solid white;
+    border-radius: 50px ;
+    text-align: center;
+    width: fit-content;
+    padding: 15px;
+}
+
+.h1title {
+    margin: 20px; ;
+}

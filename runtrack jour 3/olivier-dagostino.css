@@ -1,0 +1,42 @@
+body {
+  background-color: cadetblue;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  background-color: coral;
+}
+
+.photoprofil {
+    float: right; 
+}
+
+.présentation {
+  float: left; 
+  background-color: coral;
+
+}
+
+.interet {
+  clear: both;
+  background-color: coral;
+  width: 260px;
+  float: left;
+}
+
+.valeurs {
+  clear: both;
+  background-color: coral;
+  width: 240px;
+  float:right
+}
+
+.illustrationlac {
+  float: left;
+}
+
+.illustrationjet {
+  float: right;
+}
